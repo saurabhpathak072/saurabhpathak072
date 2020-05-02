@@ -1,0 +1,61 @@
+[data-theme="dark"] {
+    background-color: #111 !important;
+    color: #eee;
+  }
+
+[data-theme="dark"] .footer-area{
+    color: #111; 
+
+}
+
+[data-theme="dark"] .header_area .main-menu .nav-item .nav-link{
+    font:normal 500 15px/2px var(--roboto);
+    /* font-family: var(--roboto); */
+    text-transform: uppercase;
+    /* font-weight: 500; */
+    padding: 1.0rem;
+    color: white;
+}
+
+[data-theme="dark"] .navbar{
+    
+    background-color: black;
+    color: blanchedalmond;
+   
+
+}
+
+[data-theme="dark"] .card-title{
+    
+    
+    color: black;
+   
+
+}
+[data-theme="dark"] .label{
+    
+    
+  color: white;
+ 
+
+}
+
+[data-theme="dark"] .button-group button{
+  color: white;
+}
+
+
+
+  
+   /* [data-theme="dark"] .navbar-fixed {
+    background-color: #111 ;
+    color: #eee;
+  } */
+  /*
+  [data-theme="dark"] .bg-white {
+    background-color: #000 !important;
+  }
+  
+  [data-theme="dark"] .bg-black {
+    background-color: #eee !important;
+} */

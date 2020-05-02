@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "dark-mode-switch": "^1.0.0",
+    "firebase-tools": "^8.2.0",
     "jquery": "^3.5.0"
   }
 }
